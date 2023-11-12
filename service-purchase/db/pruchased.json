@@ -1,0 +1,142 @@
+[
+  {
+    "id": "01HF1W61KT69H45AVHNJ3MBQJ5",
+    "user_id": 3,
+    "quantity": 1,
+    "price": 15.99,
+    "date_purchased": "6/29/2022"
+  },
+  {
+    "id": "01HF1W61KW1Y5HBKG7K9Z75CG4",
+    "user_id": 9,
+    "quantity": 2,
+    "price": 32.5,
+    "date_purchased": "5/28/2023"
+  },
+  {
+    "id": "01HF1W61KXADJQJ84HP68A35GY",
+    "user_id": 7,
+    "quantity": 3,
+    "price": 45.75,
+    "date_purchased": "10/4/2022"
+  },
+  {
+    "id": "01HF1W61KXFPNZHXSZ6E3FBBZ9",
+    "user_id": 5,
+    "quantity": 4,
+    "price": 22.99,
+    "date_purchased": "1/31/2022"
+  },
+  {
+    "id": "01HF1W61KYG60GC69KT60CR0NQ",
+    "user_id": 10,
+    "quantity": 5,
+    "price": 39.99,
+    "date_purchased": "3/1/2022"
+  },
+  {
+    "id": "01HF1W61KYBP6PM1KX5K9P0X8D",
+    "user_id": 8,
+    "quantity": 6,
+    "price": 52.25,
+    "date_purchased": "12/25/2021"
+  },
+  {
+    "id": "01HF1W61KZYC87353ZYJM8360N",
+    "user_id": 4,
+    "quantity": 7,
+    "price": 12.75,
+    "date_purchased": "11/12/2021"
+  },
+  {
+    "id": "01HF1W61KZN7YM68PN02W7QZ51",
+    "user_id": 6,
+    "quantity": 8,
+    "price": 87.5,
+    "date_purchased": "3/22/2022"
+  },
+  {
+    "id": "01HF1W61KZXQZ75XF7SMEDQY6V",
+    "user_id": 1,
+    "quantity": 9,
+    "price": 42.99,
+    "date_purchased": "1/24/2023"
+  },
+  {
+    "id": "01HF1W61M0MHNZSJR08G55YY8M",
+    "user_id": 2,
+    "quantity": 10,
+    "price": 75.49,
+    "date_purchased": "5/17/2022"
+  },
+  {
+    "id": "01HF1W61M0QZVDVX8E7YP56H23",
+    "user_id": 7,
+    "quantity": 11,
+    "price": 80.99,
+    "date_purchased": "3/20/2023"
+  },
+  {
+    "id": "01HF1W61M10M9CFCY3D4JAG7ZK",
+    "user_id": 9,
+    "quantity": 12,
+    "price": 43.99,
+    "date_purchased": "11/29/2022"
+  },
+  {
+    "id": "01HF1W61M1SB8P67AAJ8C9AZ4X",
+    "user_id": 5,
+    "quantity": 13,
+    "price": 22.99,
+    "date_purchased": "10/31/2023"
+  },
+  {
+    "id": "01HF1W61M17VSPNGX9V9HTT8YB",
+    "user_id": 8,
+    "quantity": 14,
+    "price": 42.99,
+    "date_purchased": "11/16/2021"
+  },
+  {
+    "id": "01HF1W61M260S6RD683SKM5RR3",
+    "user_id": 10,
+    "quantity": 15,
+    "price": 59.99,
+    "date_purchased": "6/29/2023"
+  },
+  {
+    "id": "01HF1W61M2W8PWDD2V8FN52EFP",
+    "user_id": 3,
+    "quantity": 16,
+    "price": 42.99,
+    "date_purchased": "9/16/2022"
+  },
+  {
+    "id": "01HF1W61M3HX58Y6VQKH8CNN89",
+    "user_id": 5,
+    "quantity": 17,
+    "price": 58.99,
+    "date_purchased": "7/13/2023"
+  },
+  {
+    "id": "01HF1W61M3H1X2NSZGAC7XA663",
+    "user_id": 8,
+    "quantity": 18,
+    "price": 52.99,
+    "date_purchased": "12/18/2021"
+  },
+  {
+    "id": "01HF1W61M3GTHJXYHG7CWTTYGQ",
+    "user_id": 9,
+    "quantity": 19,
+    "price": 18.99,
+    "date_purchased": "6/10/2023"
+  },
+  {
+    "id": "01HF1W61M4S64XYHCMT5929DVS",
+    "user_id": 10,
+    "quantity": 20,
+    "price": 19.99,
+    "date_purchased": "10/28/2022"
+  }
+]

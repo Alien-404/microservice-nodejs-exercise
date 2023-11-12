@@ -1,0 +1,17 @@
+{
+  "name": "service-inventory-rinaru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "rico",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  }
+}

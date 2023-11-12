@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01HF1X6PBRT4E0CG9APFYQR4YK",
+    "name": "CONMED Corporation",
+    "quantity": 9,
+    "user_id": 1
+  },
+  {
+    "id": "01HF1X6PBSJGB4HEJXQEMMRKTN",
+    "name": "Canadian Natural Resources Limited",
+    "quantity": 10,
+    "user_id": 2
+  },
+  {
+    "id": "01HF1X6PBTKR9Q0MWX3C7T0DE4",
+    "name": "Capitala Finance Corp.",
+    "quantity": 17,
+    "user_id": 3
+  },
+  {
+    "id": "01HF1X6PBV1QWX4GBBWCECZW95",
+    "name": "Liberty Tax, Inc.",
+    "quantity": 7,
+    "user_id": 4
+  },
+  {
+    "id": "01HF1X6PBWE4ZQFGSJKFK9SHQP",
+    "name": "Brookfield Property Partners L.P.",
+    "quantity": 34,
+    "user_id": 5
+  },
+  {
+    "id": "01HF1X6PBWD5R2GMXPGH4W3BFM",
+    "name": "Twenty-First Century Fox, Inc.",
+    "quantity": 8,
+    "user_id": 6
+  },
+  {
+    "id": "01HF1X6PBX8SW2AV1CGV3E6S7G",
+    "name": "Novogen Limited",
+    "quantity": 14,
+    "user_id": 7
+  },
+  {
+    "id": "01HF1X6PBXKZSYCF52RBYPRMJE",
+    "name": "Adient plc",
+    "quantity": 38,
+    "user_id": 8
+  },
+  {
+    "id": "01HF1X6PBXKDB8817GXJNZBXHG",
+    "name": "CVB Financial Corporation",
+    "quantity": 31,
+    "user_id": 9
+  },
+  {
+    "id": "01HF1X6PBXGHQ5C912BRHQCV0G",
+    "name": "MGP Ingredients, Inc.",
+    "quantity": 40,
+    "user_id": 10
+  }
+]

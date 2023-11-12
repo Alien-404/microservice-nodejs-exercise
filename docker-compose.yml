@@ -1,0 +1,51 @@
+version: '3'
+
+services:
+  user:
+    build:
+      context: ./service-user
+      dockerfile: Dockerfile.user
+    networks:
+      - rinaru_internal
+    environment:
+      - PORT=3001
+
+  inventory:
+    build:
+      context: ./service-inventory
+      dockerfile: Dockerfile.inventory
+    networks:
+      - rinaru_internal
+    environment:
+      - PORT=3002
+      - SERVICE_PURCHASE=purchase:3003
+
+  purchase:
+    build:
+      context: ./service-purchase
+      dockerfile: Dockerfile.purchase
+    networks:
+      - rinaru_internal
+    environment:
+      - PORT=3003
+
+  gateway:
+    build:
+      context: ./service-gateway
+      dockerfile: Dockerfile.gateway
+    ports:
+      - '3000:3000'
+    networks:
+      - rinaru_internal
+    depends_on:
+      - user
+      - inventory
+      - purchase
+    environment:
+      - PORT=3000
+      - SERVICE_USER=user:3001
+      - SERVICE_INVENTORY=inventory:3002
+
+networks:
+  rinaru_internal:
+    driver: bridge

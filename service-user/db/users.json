@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Fania Larter",
+    "username": "flarter0",
+    "email": "flarter0@ocn.ne.jp",
+    "gender": "Female",
+    "password": "yK4}\"3_o.e)C#",
+    "dob": "12/21/2013"
+  },
+  {
+    "id": 2,
+    "name": "Jasmina Gemlett",
+    "username": "jgemlett1",
+    "email": "jgemlett1@marketwatch.com",
+    "gender": "Female",
+    "password": "gB7%H)EyQ6E,lPj2~qNy*hn",
+    "dob": "7/9/2000"
+  },
+  {
+    "id": 3,
+    "name": "Kathlin McRill",
+    "username": "kmcrill2",
+    "email": "kmcrill2@japanpost.jp",
+    "gender": "Female",
+    "password": "kA7!tUP6Ri6TdHm>d",
+    "dob": "2/25/2019"
+  },
+  {
+    "id": 4,
+    "name": "Quintilla Burt",
+    "username": "qburt3",
+    "email": "qburt3@google.com.hk",
+    "gender": "Female",
+    "password": "yU9@pUK*n{|_5V'K?.qyYs/",
+    "dob": "4/26/2019"
+  },
+  {
+    "id": 5,
+    "name": "Kenny Bartalini",
+    "username": "kbartalini4",
+    "email": "kbartalini4@ed.gov",
+    "gender": "Male",
+    "password": "eS5/r$JSnm(A_8",
+    "dob": "7/2/2009"
+  },
+  {
+    "id": 6,
+    "name": "Lilla O'Gaven",
+    "username": "logaven5",
+    "email": "logaven5@nydailynews.com",
+    "gender": "Agender",
+    "password": "rC7~_*y\"7W(Swqm",
+    "dob": "10/6/2004"
+  },
+  {
+    "id": 7,
+    "name": "Alexandros Egel",
+    "username": "aegel6",
+    "email": "aegel6@theatlantic.com",
+    "gender": "Male",
+    "password": "eO0,_.UbeER$r1Z#6",
+    "dob": "3/30/2016"
+  },
+  {
+    "id": 8,
+    "name": "Georgie Veelers",
+    "username": "gveelers7",
+    "email": "gveelers7@jalbum.net",
+    "gender": "Male",
+    "password": "tW5/W0A8m%k,?O5\"8*nW",
+    "dob": "11/27/2001"
+  },
+  {
+    "id": 9,
+    "name": "Holmes Ruckledge",
+    "username": "hruckledge8",
+    "email": "hruckledge8@csmonitor.com",
+    "gender": "Male",
+    "password": "nO9%La@.*bfh0gF8?`ApQ>",
+    "dob": "3/17/2018"
+  },
+  {
+    "id": 10,
+    "name": "Abbot McFaell",
+    "username": "amcfaell9",
+    "email": "amcfaell9@uol.com.br",
+    "gender": "Polygender",
+    "password": "eF6=rUshV(vN%e*EPHz`4w0",
+    "dob": "5/12/2017"
+  }
+]
